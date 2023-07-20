@@ -1,2 +1,2 @@
-# hopfield_timeseries
+# Hopfield Timeseries
 Playing around with Hopfield Networks for Timeseries
